@@ -54,9 +54,8 @@ let arr = ['Apple',' Orange','Cherry','Apple',' Orange','Cherry'];
 find(arr,"Cherry");
 
 devide();
+
 //Task4
-//4.Створіть функцію filterRange(array, a, b), яка приймає масив чисел array
-//і повертає новий масив, який містить тільки числа з array в діапазоні від a до b.
 
 function filterRange(array, a, b){
 let index1, index2;
